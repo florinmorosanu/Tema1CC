@@ -5,8 +5,6 @@ public class Tema1_ID_1 {
 	private static Scanner sc;
 
 	public static void main(String[] args) {
-		// 1) Sa se determine de cate ori apare un anumit caracter nsole.rintr-un sir de
-		// caractere dat.
 
 		System.out.println("Introduceti cuvantul: ");
 		sc = new Scanner(System.in);
